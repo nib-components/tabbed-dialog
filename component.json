@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "scripts": ["index.js"],
   "dependencies": {
-    "nib-components/dialog": "0.0.5",
+    "nib-components/dialog": "0.0.6",
     "nib-components/tabs": "0.0.1"
   }
 }
